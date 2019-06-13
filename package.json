@@ -1,0 +1,23 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "Final project for front end course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartkusVytautas/FinalProject.git"
+  },
+  "author": "Vytautas Bartkus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartkusVytautas/FinalProject/issues"
+  },
+  "homepage": "https://github.com/BartkusVytautas/FinalProject#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
